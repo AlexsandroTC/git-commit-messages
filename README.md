@@ -1,2 +1,2 @@
 # git-commit-messages
-Examples about patters to use the git messages. 
+Good usage practices git commit messages. 
