@@ -30,7 +30,7 @@ It is easier and faster to identify which task is related, when the someone of t
 The organization of the tree of changes becomes more organized, making it easier to create release notes, as well as having the possibility of automating the release note using the commit messages. 
 
 Add task.
-
+add new task
 
 # References
 [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/)
