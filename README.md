@@ -32,6 +32,7 @@ The organization of the tree of changes becomes more organized, making it easier
 Add task.
 add new task
 add bug. 
+add new task
 
 # References
 [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/)
