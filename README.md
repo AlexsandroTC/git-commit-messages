@@ -29,6 +29,7 @@ It is easier and faster to identify which task is related, when the someone of t
 2. The commits tree stay more organizate:<br><br>
 The organization of the tree of changes becomes more organized, making it easier to create release notes, as well as having the possibility of automating the release note using the commit messages. 
 
+Add task.
 
 
 # References
